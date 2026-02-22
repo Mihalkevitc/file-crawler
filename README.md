@@ -13,7 +13,7 @@
 
 ## Требования
 
-- Python 3.7 или выше
+- Python 3.10
 - pip (менеджер пакетов Python)
 - Git (для клонирования репозитория)
 
@@ -24,8 +24,8 @@
 Откройте терминал и выполните команду:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/Mihalkevitc/file-crawler.git
+cd file-crawler
 ```
 
 ### 2. Создание виртуального окружения (рекомендуется)
@@ -34,7 +34,7 @@ cd
 
 ```bash
 python -m venv venv
-venv\Scripts\activate
+source venv/Scripts/activate
 ```
 
 Для Linux/Mac:
