@@ -34,7 +34,7 @@ cd file-crawler
 
 ```bash
 python -m venv venv
-venv\Scripts\activate
+source venv/Scripts/activate
 ```
 
 Для Linux/Mac:
