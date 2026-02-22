@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# База данных
+database/*.db
+*.db
+
+# Временные файлы
+temp_*.txt
+
+# Данные
+data/
+output/
