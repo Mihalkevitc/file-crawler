@@ -24,8 +24,8 @@
 Откройте терминал и выполните команду:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/Mihalkevitc/file-crawler.git
+cd file-crawler
 ```
 
 ### 2. Создание виртуального окружения (рекомендуется)
