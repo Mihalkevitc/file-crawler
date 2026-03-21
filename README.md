@@ -28,7 +28,7 @@ git clone https://github.com/Mihalkevitc/file-crawler.git
 cd file-crawler
 ```
 
-### 2. Создание виртуального окружения (рекомендуется)
+### 2. Создание виртуального окружения (рекомендуется )
 
 Для Windows:
 
